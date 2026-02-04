@@ -15,4 +15,3 @@ CMakeLists.txt
 *.exe
 .idea
 .PVS-Studio
-main.c
